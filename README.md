@@ -41,6 +41,12 @@ To explore Uber ride patterns and propose operational strategies that:
 
 ---
 
+## 📁 Project Files
+
+- 🎯 [Download Project Presentation (PPTX)](Uber_Ride_Allocation_Strategy_Presentation.pptx)
+
+---
+
 ## 📉 Outcomes
 
 - 🚗 Identified key delay zones with 20% higher average lag
